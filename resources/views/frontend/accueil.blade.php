@@ -51,7 +51,8 @@
         </p>
 
         <!-- BOUTONS -->
-        <div class="space-y-4 sm:space-y-0 sm:space-x-6 sm:flex sm:justify-center animate-fade-up delay-400">
+        <div class="flex flex-col sm:flex-row gap-4 sm:gap-6 justify-center animate-fade-up delay-400">
+
 
             <a href="/collection" class="w-full sm:w-auto bg-white text-gray-900 font-elegant font-medium px-8 py-4 rounded-sm hover:bg-gray-100 transition-all duration-300 ease-out transform hover:scale-105">
                 Découvrir nos produits

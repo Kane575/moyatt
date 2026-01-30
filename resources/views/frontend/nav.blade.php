@@ -137,7 +137,7 @@
                             </div>
                         </a>
 
-                        <a href="/collection/nouveautes" class="block px-4 py-3 text-gray-700 font-elegant text-sm hover:bg-green-50 hover:text-green-600 transition-all duration-200 last:rounded-b-lg">
+                        <a href="#" class="block px-4 py-3 text-gray-700 font-elegant text-sm hover:bg-green-50 hover:text-green-600 transition-all duration-200 last:rounded-b-lg">
                             <div class="flex items-center gap-3">
                                 <div class="w-8 h-8 bg-green-100 rounded-lg flex items-center justify-center">
                                     <svg class="w-4 h-4 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24">

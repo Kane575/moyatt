@@ -164,14 +164,9 @@
         <nav class="mb-8 animate-fade-up">
             <ol class="flex items-center space-x-2 text-sm font-elegant text-gray-600">
                 <li>
-                    <a href="/" class="hover:text-[#b88b55] transition-colors duration-300">Accueil</a>
+                    <a href="/accueil" class="hover:text-[#b88b55] transition-colors duration-300">Accueil</a>
                 </li>
-                <li class="flex items-center">
-                    <svg class="w-4 h-4 mx-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
-                    </svg>
-                    <a href="/collection" class="hover:text-[#b88b55] transition-colors duration-300">Collections</a>
-                </li>
+
                 <li class="flex items-center">
                     <svg class="w-4 h-4 mx-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"/>
